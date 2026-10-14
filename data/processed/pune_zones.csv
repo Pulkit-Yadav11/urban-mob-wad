@@ -1,0 +1,13 @@
+zone_id,land_use,demand,peak_hour,demand_category,congestion_index
+Zone_1,Industrial,217,Morning (8-10am),Low,16.2
+Zone_2,Commercial,711,Evening (5-8pm),High,98.5
+Zone_3,Mixed,518,Morning (8-10am),High,66.3
+Zone_4,Industrial,128,Evening (5-8pm),Low,1.3
+Zone_5,Residential,362,Morning (8-10am),Medium,40.3
+Zone_6,Mixed,369,Evening (5-8pm),Medium,41.5
+Zone_7,Industrial,360,Evening (5-8pm),Medium,40.0
+Zone_8,Industrial,202,Morning (8-10am),Low,13.7
+Zone_9,Residential,290,Evening (5-8pm),Low,28.3
+Zone_10,Commercial,504,Evening (5-8pm),Medium,64.0
+Zone_11,Residential,460,Morning (8-10am),Medium,56.7
+Zone_12,Mixed,460,Morning (8-10am),Medium,56.7
